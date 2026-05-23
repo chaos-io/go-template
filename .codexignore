@@ -1,10 +1,14 @@
 openapi/
 docs/
 example/
+*/mocks
+dist/
 
-Makefile
-coverage*
+backend/run/
+backend/Makefile
+backend/coverage*
 
+.cache
 .git
 .idea
 .vscode
